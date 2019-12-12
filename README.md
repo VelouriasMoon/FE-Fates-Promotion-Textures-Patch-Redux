@@ -19,5 +19,4 @@ Expands the unique textures given to units when in certain classes
 * Valouria: Great Lord, Hero, Adventurer, Outlaw, Samurai, Swordmaster
 * Ophelia: Samurai, Outlaw
 * Soleil: Songstress
-
 * Fixed Daniela using the Strategist model for every mounted class
