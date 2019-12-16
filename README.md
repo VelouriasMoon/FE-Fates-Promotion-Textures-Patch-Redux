@@ -1,5 +1,6 @@
 # FE-Fates-Promotion-Textures-Patch-Redux
 Expands the unique textures given to units when in certain classes
+### GameBanna Page: https://gamebanana.com/skins/173870
 
 # Changelog 
 
