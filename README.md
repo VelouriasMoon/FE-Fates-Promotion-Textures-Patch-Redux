@@ -3,6 +3,14 @@ Expands the unique textures given to units when in certain classes
 
 # Changelog 
 
+## 0.03 (2019-12-22)
+- **Added** Felicia: Sorcerer
+- **Added** Azura: Dark Mage, Sorcerer
+- **Added** Mozu: Dark Mage, Sorcerer
+- **Added** Orochi: Dark Mage, Sorcerer
+- **Added** Charlotte: Dark Mage, Sorcerer
+- **Added** Flora: Sorcerer
+
 ## 0.02 (2019-12-15)
 - **Added** Sakura: Dark Mage, Sorcerer
 - **Added** Orochi: Great Lord, Dark Knight, Oni Savage
