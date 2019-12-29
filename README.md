@@ -4,6 +4,17 @@ Expands the unique textures given to units when in certain classes
 
 # Changelog 
 
+## 0.04 (2019-12-29)
+- **Added** Ryoma: Lobstar
+- **Added** Xander: Lobstar
+- **Added** Odin: Lobstar
+- **Added** Selkie: Dread Fighter
+- **Added** Elise: Witch
+- **Added** Ophelia: Witch
+- **Added** Anna: Witch
+- **Added** Flora: Witch
+- **Fixed** Orochi uses a big bust model in dark mage class
+
 ## 0.03 (2019-12-22)
 - **Added** Felicia: Sorcerer
 - **Added** Azura: Dark Mage, Sorcerer
